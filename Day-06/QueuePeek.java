@@ -7,5 +7,6 @@ public class QueuePeek {
         for (int i = 0; i < n; i++)
             q.add(sc.nextInt());
         System.out.println(q.peek());
+        sc.close();
     }
 }

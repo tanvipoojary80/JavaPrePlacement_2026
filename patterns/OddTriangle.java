@@ -10,6 +10,7 @@ public class OddTriangle {
                 num+=2;
             }
             System.out.println();
+            sc.close();
         }
     }
 }

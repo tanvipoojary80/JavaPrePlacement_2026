@@ -8,5 +8,6 @@ public class VectorRemove {
             v.add(sc.nextInt());
         v.remove(0);
         System.out.println(v);
+        sc.close();
     }
 }

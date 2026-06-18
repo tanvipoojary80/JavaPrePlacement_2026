@@ -1,5 +1,5 @@
 import java.util.*;
-public class ArrayListOperations {
+public class remove {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         ArrayList<Integer> list = new ArrayList<>();
@@ -23,6 +23,7 @@ public class ArrayListOperations {
             q--;
         }
         System.out.println(list);
+        sc.close();
     }
 }
 

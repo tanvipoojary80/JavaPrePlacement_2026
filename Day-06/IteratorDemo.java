@@ -9,5 +9,6 @@ public class IteratorDemo {
         Iterator<Integer> i = list.iterator();
         while (i.hasNext())
             System.out.print(i.next() + " ");
+        sc.close();
     }
 }

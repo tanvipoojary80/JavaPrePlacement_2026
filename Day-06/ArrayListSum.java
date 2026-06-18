@@ -7,6 +7,7 @@ public class ArrayListSum{
         for(int i=0;i<n;i++){
             sum+=sc.nextInt();
         System.out.println(sum);
+        sc.close();
         }
     }
 }

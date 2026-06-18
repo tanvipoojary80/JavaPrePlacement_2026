@@ -12,6 +12,7 @@ public class FibonacciPattern {
                 b=c;
             }
             System.out.println();
+            sc.close();
         }
     }
 }

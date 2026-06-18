@@ -8,6 +8,7 @@ class numberptrn{
                 System.out.print(i);
             }
             System.out.println();
+            sc.close();
         }
     }
 } 

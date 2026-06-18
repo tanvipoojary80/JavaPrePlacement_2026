@@ -12,6 +12,7 @@ public class question9{
                 System.out.print(-i+"");
                 }else{
                     System.out.print(i+"");
+                    sc.close();
                 }
             }
         }

@@ -13,6 +13,7 @@ public class NumberToWords {
         for(int i=0;i<num.length();i++){
             int digit=num.charAt(i)-'0';
             System.out.print(words[digit]+" ");
+            sc.close();
         }
     }
 }

@@ -8,5 +8,6 @@ public class QueueRemove {
             q.add(sc.nextInt());
         q.remove();
         System.out.println(q);
+        sc.close();
     }
 }

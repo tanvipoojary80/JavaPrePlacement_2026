@@ -10,5 +10,6 @@ public class LinkedListRemove {
         list.removeFirst();
         list.removeLast();
         System.out.println(list);
+        sc.close();
     }
 }

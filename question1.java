@@ -10,5 +10,6 @@ public class question1{
         
         for(int i=1;i<=n;i++)
         System.out.println(i+"");
+    sc.close();
     }
 }

@@ -16,6 +16,7 @@ public class FactorialPattern {
                 num++;
             }
             System.out.println();
+            sc.close();
         }
     }
 }

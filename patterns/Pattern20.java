@@ -4,6 +4,7 @@ public class Pattern20 {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         for(int i=0;i<2*n-1;i++){
+
             for(int j=0;j<2*n-1;j++){
                 int val=n-
                 Math.min(
@@ -15,6 +16,7 @@ public class Pattern20 {
                 System.out.print(val+" ");
             }
             System.out.println();
+            sc.close();
         }
     }
 }

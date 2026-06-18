@@ -8,6 +8,7 @@ public class NumberIncrease1 {
                 System.out.print(i);
             }
             System.out.println();
+            sc.close();
         }
     }
 }

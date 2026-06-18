@@ -9,6 +9,7 @@ public class NumberPattern2 {
                 System.out.print(j);
             }
             System.out.println();
+            sc.close();
         }
     }
 }

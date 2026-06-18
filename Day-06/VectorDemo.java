@@ -7,5 +7,6 @@ public class VectorDemo {
         for (int i = 0; i < n; i++)
             v.add(sc.nextInt());
         System.out.println(v);
+        sc.close();
     }
 }

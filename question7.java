@@ -6,6 +6,7 @@ public class question7{
         int n=sc.nextInt();
         for(int i=1;i<=n;i+=4){
             System.out.println(i+"");
+            sc.close();
         }
     }
 }

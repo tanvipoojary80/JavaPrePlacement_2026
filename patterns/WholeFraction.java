@@ -7,5 +7,6 @@ public class WholeFraction {
         double fraction=n-whole;
         System.out.println("Whole = "+whole);
         System.out.println("Fraction = "+fraction);
+        sc.close();
     }
 }

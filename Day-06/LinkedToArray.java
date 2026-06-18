@@ -8,5 +8,6 @@ public class LinkedToArray {
             l.add(sc.nextInt());
         ArrayList<Integer> a = new ArrayList<>(l);
         System.out.println(a);
+        sc.close();
     }
 }

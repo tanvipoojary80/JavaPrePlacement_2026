@@ -8,5 +8,6 @@ public class ArrayListRemoveEven {
             list.add(sc.nextInt());
         list.removeIf(x -> x % 2 == 0);
         System.out.println(list);
+        sc.close();
     }
 }

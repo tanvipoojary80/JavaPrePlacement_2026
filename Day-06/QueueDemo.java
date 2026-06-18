@@ -8,5 +8,6 @@ public class QueueDemo {
         for (int i = 0; i < n; i++)
             q.add(sc.nextInt());
         System.out.println(q);
+        sc.close();
     }
 }

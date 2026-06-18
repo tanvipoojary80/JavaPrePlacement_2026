@@ -10,6 +10,7 @@ public class SeriesPattern {
             else
                 System.out.print(num+" ");
             num+=4;
+            sc.close();
         }
     }
 }

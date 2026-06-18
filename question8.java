@@ -16,6 +16,7 @@ public class question8 {
             System.out.print(c+" ");
             a=b;
             b=c;
+            sc.close();
         }
     }
 }

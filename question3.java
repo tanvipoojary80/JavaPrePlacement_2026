@@ -11,6 +11,7 @@ public class question3{
 
         for(int i=2;i*i<=n;i+=2){
             System.out.println((i*i)+"");
+            sc.close();
         }
     }
 }

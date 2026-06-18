@@ -7,6 +7,7 @@ class ifelse {
             System.out.println("Enter the age:");
             age=sc.nextInt();
             System.out.println("Valid age");
+            sc.close();
 
         }
         }

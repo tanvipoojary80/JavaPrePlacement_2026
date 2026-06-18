@@ -12,6 +12,7 @@ public class question5{
 
             if(i%2!=0 || (i%2==0 && i%3==0))
                 System.out.print(i*i+" ");
+            sc.close();
         }
     }
 }

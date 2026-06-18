@@ -14,6 +14,7 @@ public class SquarePattern {
                 num++;
             }
             System.out.println();
+            sc.close();
         }
     }
 }

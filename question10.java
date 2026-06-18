@@ -16,6 +16,7 @@ public class question10{
 
             if(count==2)
                 System.out.print(i+" ");
+            sc.close();
         }
     }
 }

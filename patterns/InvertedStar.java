@@ -8,6 +8,7 @@ public class InvertedStar {
                 System.out.print("*");
             }
             System.out.println();
+            sc.close();
         }
     }
 }

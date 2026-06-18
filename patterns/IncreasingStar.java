@@ -8,6 +8,8 @@ public class IncreasingStar {
                 System.out.print("*");
             }
             System.out.println();
+            sc.close();
+
         }
     }
 }

@@ -24,5 +24,6 @@ public class ArrayListOperations {
             list.remove(pos);
         }
         System.out.println("Output: " + list);
+        sc.close();
     }
 }
